@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deepali Paspule</h1>
 <h3 align="center">A passionate Software Developer</h3>
-<img align="right" height="300" width="300" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+<img align="right" height="250" width="420" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepalipaspule&label=Profile%20views&color=0e75b6&style=flat" alt="deepalipaspule" /> </p>
 
